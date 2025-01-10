@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Geostar+Fill&family=Iceland&family=Jersey+10&family=Orbitron:wght@400..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    background-image: url(/imagens/tv.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+a:link {
+    color: yellow;
+  }
+  a:visited {
+    color: yellow;
+  }
+  a:hover {
+  color: red;
+  }
+
+h1 {
+    font-family: "Jersey 10", serif;
+    font-weight: 400;
+    font-size: 120px;
+    color: yellow;
+    text-align: center;
+    text-shadow: 0.025em 0.025em green;
+    border: 2px solid green;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+    background-color: black;
+  }
+
+  .container {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+    border: 2px solid green;
+    background-color: black;
+    height: 790px;
+    font-family: "Jersey 10", serif;
+    color: yellow;
+    text-align: center;
+  }
+
+  #esquerda {
+    border: 1px solid green;
+    width: 25%;
+    font-size: 40px;
+    height: 788px;
+  }
+
+  .inicio {
+    border: 1px solid green;
+    padding: 15px;
+  }
+  .imagens {
+    border: 1px solid green;
+    padding: 15px;
+  }
+  .sites {
+    border: 1px solid green;
+    padding: 15px;
+  }
+  .fundo {
+    border: 1px solid green;
+    padding: 15px;
+  }
+  .logo {
+    width: 250px;
+    margin-bottom: -320px;
+  }
+
+  main {
+    width: 52%;
+    margin-top: -770px;
+    margin-left: 307px;
+    font-size: 30px;
+    color: greenyellow;
+    height: 770px;
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+
+  #direita {
+    border: 2px solid green;
+    width: 20%;
+    font-size: 40px;
+    height: 788px;
+    margin-left: 916px;
+    margin-top: -789px;
+  }
+
+  .classicos {
+    border: 1px solid green;
+    padding: 15px;
+  }
+
+  .animes {
+    border: 1px solid green;
+    padding: 15px;
+  }
+  .musica {
+    border: 1px solid green;
+    padding: 15px;
+  }
+  .games {
+    border: 1px solid green;
+    padding: 15px;
+  }
+  .aleatorios {
+    border: 1px solid green;
+    padding: 15px;
+  }
+
+  .recentes {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: px;
+    text-align: left;
+  }
+
+  .fernando {
+    border-bottom: 5px solid yellow;
+    margin: 10px;
+    padding-bottom: 10px;
+  }
+
+  .arabe {
+    border-bottom: 5px solid yellow;
+    margin: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .binladen {
+    border-bottom: 5px solid yellow;
+    margin: 10px;
+    padding-bottom: 10px;
+  }
+
+  .consoles {
+    border-bottom: 5px solid yellow;
+    margin: 10px;
+    padding-bottom: 10px;
+  }
+  .divisor {
+    width: 100%;
+    padding-top: 3%;
+   }

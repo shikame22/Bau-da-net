@@ -77,31 +77,31 @@ h2 {
 }
 
 .videos {
-  border: 1px solid green;
-  margin-top: -10%;
-  margin-right: -10%;
-  margin-left: -10%;
+  border: 2px solid green;
+  margin-top: -9%;
+  margin-right: -9%;
+  margin-left: -9%;
   padding: 10%;
 }
 
 .imagens {
-  border: 1px solid green;
-  margin-right: -10%;
-  margin-left: -10%;
+  border: 2px solid green;
+  margin-right: -9%;
+  margin-left: -9%;
   padding: 10%;
 }
 
 .sites {
-  border: 1px solid green;
-  margin-right: -10%;
-  margin-left: -10%;
+  border: 2px solid green;
+  margin-right: -9%;
+  margin-left: -9%;
   padding: 10%;
 }
 
 .fundo {
-  border: 1px solid green;
-  margin-right: -10%;
-  margin-left: -10%;
+  border: 2px solid green;
+  margin-right: -9%;
+  margin-left: -9%;
   padding: 10%;
 }
 .foot {
@@ -122,6 +122,6 @@ h2 {
 .bosta {
   border: 2px solid green;
   margin-bottom: 73%;
-  margin-left: -10%;
-  margin-right: -10%;
+  margin-left: -9%;
+  margin-right: -9%;
 }

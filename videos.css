@@ -78,11 +78,11 @@ h1 {
 
   main {
     width: 52%;
-    margin-top: -65%;
-    margin-left: 307px;
-    font-size: 30px;
+    margin-top: -90%;
+    margin-left: 25%;
+    font-size: 230%;
     color: greenyellow;
-    height: 770px;
+    height: 100%;
     overflow: hidden;
     overflow-y: scroll;
   }
@@ -90,10 +90,9 @@ h1 {
   #direita {
     border: 2px solid green;
     width: 20%;
-    font-size: 40px;
-    height: 788px;
-    margin-left: 916px;
-    margin-top: -789px;
+    font-size: 250%;
+    margin-left: 80%;
+    margin-top: -790px;
   }
 
   .classicos {
